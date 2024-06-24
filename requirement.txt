@@ -1,0 +1,11 @@
+langchain
+langgraph
+langsmith
+langserve
+gtts
+flask
+speechrecognition
+nvidia-pyindex
+faiss-gpu
+flask-ngrok
+pyngrok
